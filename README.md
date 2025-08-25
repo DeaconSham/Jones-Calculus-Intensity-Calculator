@@ -29,13 +29,6 @@ In optics, the **Jones calculus** is a mathematical framework used to describe t
 *   Python 3
 *   SymPy library
 
-## Installation
-
-1.  Ensure you have Python 3 installed on your system.
-2.  Install the SymPy library using pip:
-    ```sh
-    pip install sympy
-    ```
 
 ## Usage
 
