@@ -1,4 +1,4 @@
-# Symbolic Jones Calculus Intensity Calculator
+# Jones Calculus Intensity Calculator
 
 A Python script that uses the `sympy` library to symbolically calculate the intensity of polarized light after it passes through a generic optical element. The calculation is based on the Jones calculus formalism used in optics.
 
